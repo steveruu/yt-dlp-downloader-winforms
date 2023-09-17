@@ -15,6 +15,6 @@ a downloader made for yt-dlp built in c# that uses the winforms library or sum i
 - this program was made for fun by a computer science student  
 - report any issues
 
-## jestli tohle cte mthia:
+### jestli tohle cte mthia:
 - nemusis ani rikat, ze je vsechno spatne a nefunkcni, C# se ucim tak tejden a winforms jsem jel podle nejakyho 9miuntovyho indickyho tutorialu ale budu otevrenej konstruktivni kritice dekuju cau
 - napsal jsem to asi tak za hodinu  
