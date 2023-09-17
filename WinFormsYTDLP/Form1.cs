@@ -42,7 +42,7 @@ namespace WinFormsYTDLP {
             var Download = new Process {
                 StartInfo = {
                     FileName = ytDLPPath,
-                    Arguments = " -f 137+140 --write-sub -P home:" + DestinationPath + " " + url
+                    Arguments = " -S res,ext:mp4:m4a --recode mp4 -P home:" + DestinationPath + " " + url
                     // yt-dlp.exe -P home:C:\\...\\...\\... https://...
                 }
             };
