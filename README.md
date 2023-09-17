@@ -2,7 +2,8 @@
 a downloader made for yt-dlp built in c# that uses the winforms library or sum idk  
 
 ## prerequisites:
-- **yt-dlp.exe**  
+- **yt-dlp.exe**
+- **maybe** ffmpeg (idk)  
 - windows >= **10** (8.1 isn't tested)  
 - brain   
 
