@@ -1,5 +1,5 @@
 # yt-dlp-downloader-winforms
-a downloader made for yt-dlp built in c# that uses the winforms library  
+a GUI wrapper made for yt-dlp built in C# that uses the WinForms library  
 ![[https://i.imgur.com/BFDNfDa.png](https://i.imgur.com/BFDNfDa.png)](https://raw.githubusercontent.com/steveruu/yt-dlp-downloader-winforms/master/img/6YMB.png)
 
 ## 📝 prerequisites:
@@ -15,6 +15,3 @@ a downloader made for yt-dlp built in c# that uses the winforms library
 ## 💙 advisory:
 - this program was made for fun by a computer science student  
 - report any issues
-
-## 🎯 todo:
-- make a GNU version for MacOS & Linux
